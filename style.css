@@ -1,0 +1,14 @@
+.editor {
+	width: 100%;
+	height: auto;
+}
+#output {
+	width: 100%;
+	min-height: 20vw;
+	display: block;
+	margin: 2vw 0;
+}
+#html-code, #css-code {
+	width: 49%;
+	min-height: 20vw;
+}
